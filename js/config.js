@@ -1,1 +1,1 @@
-const APIURL='http://localhost/assignement/';
+const APIURL='';
