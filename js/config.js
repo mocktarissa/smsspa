@@ -1,0 +1,1 @@
+const APIURL='http://localhost/assignement/';
